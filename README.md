@@ -24,3 +24,6 @@ SECRET=secret key to hash the password
 ```
 $ node src/index.js
 ```
+## Made with
+- [Antony JIN](https://github.com/Antonyjin)
+- [Lenny VONGPHOUTONE](https://github.com/lennyvong)
